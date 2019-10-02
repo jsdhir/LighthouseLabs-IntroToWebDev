@@ -1,0 +1,71 @@
+### Welcome!
+
+Hi everyone, welcome to your first week of Intro to Web Development! It was a pleasure meeting you all and I'm excited to see how you grow in the next 6 weeks. 
+
+So today we were introduced to Web Development concepts which include:
+
+###### Difference Between Web App vs Website
+
+- A **website** is passive, content does not change, usually a source of information
+- A **web app** is interactive, content changes depending on user, usually a tool
+
+###### Layers of a Web App
+
+- Operating System -- usually Linux or Ubuntu
+- Database -- stores information
+- Web Server -- like Amazon Web Services, hosts the app onto the web
+- Server Side Code -- back-end code, usually business processes 
+- Browser -- Google Chrome, Safari, Microsoft Edge etc, displays the web App
+- Client Side Code -- front-end where the user interacts with
+
+###### Types of Developers
+
+- Front-End -- develops what the user sees and interacts with, typical languages: HTML, CSS, JavaScript
+- Back-End -- takes requests from the front-end and usually does a process such as completing a purchase, typical languages: Ruby
+- Database -- stores data in an organized way, usually in terms of relationships
+- Full-Stack Developer - does everything
+
+###### The Cloud
+
+- A network of servers!
+- Our Finstagram CodeAnywhere is hosted on a server. 
+
+###### Version Control
+
+- Version control helps us to keep our revisions straight
+- Typically we have a project/repository and we create our own version to modify. If we want to 'push' our version to the original we do a 'request'
+- Version control systems allow us to make collaborations with others
+- Version control systems provides a history of change and backs up our Code
+
+For example, Company X has an app. They are making modifications to their app. Their Developers create their own version of the app by creating branches off of the original app. 
+The developers make their changes, test it, and everything seems to work. They do a 'pull request' -- meaning they want to add their new code to the original app's code source. 
+Oops, after the pull request users are now facing issues with the app! Luckily we can quickly revert those changes thanks to version control!
+
+###### Git vs Github
+
+- Git is the most popular version of version Control
+- Git is mainly used in the Terminal/Command Line
+
+- GitHub is an **open source** visual representation of Git
+- GitHub is a community of many repositories/projects
+
+###### Open source
+
+- Open source code is available for anyone to access. 
+- Everything on GitHub is open source code 
+- To contribute to open source code, you do a pull request which is then reviewed. 
+- Examples: Ruby, React, most coding languages
+
+###### Closed source
+
+- Not publicly available. 
+- Also uses git but probably not github but another GUI version control such as Azure DevOps
+
+
+### Links
+[Today's Slides](https://docs.google.com/presentation/d/13z1Z7nhuGp2YjmypROtZR4rVkHeR8428KBiYPKE7-Zs/edit)
+
+###### Conclusion
+
+It was great meeting you guys today! Thanks for being patient with CodeAnywhere -- it's definitely slow and glitchy but we'll get through it together. 
+I'll see you all on Thursday where we will start to learn HTML!
