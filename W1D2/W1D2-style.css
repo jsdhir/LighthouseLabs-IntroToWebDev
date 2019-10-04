@@ -1,0 +1,45 @@
+body {
+  width: 50%;
+  background-color: #f7f7f7;
+  color: black;
+  display: block;
+  margin: 3rem auto;
+  font-family: PT Mono;
+  font-size: 1.5rem;
+}
+
+input, label, button {
+  display: block;
+  margin: 0 auto .5rem auto;
+  text-align: center;
+  font-family: PT Mono;
+  color: black;
+  width: 10rem;
+}
+
+label {
+  margin-top: 2rem;
+}
+
+input, button {
+  border-radius: .25rem;
+  border: 1px solid black;
+  padding: .5rem 1rem;
+}
+
+input:last-of-type {
+  height: 1rem;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+.circle {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  background-color: pink;
+}
